@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kyleg\\source\\repos\\ClientManagerApp\\ClientManagerApp.csproj": {}
+    "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kyleg\\source\\repos\\ClientManagerApp\\ClientManagerApp.csproj": {
+    "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kyleg\\source\\repos\\ClientManagerApp\\ClientManagerApp.csproj",
+        "projectUniqueName": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj",
         "projectName": "ClientManagerApp",
-        "projectPath": "C:\\Users\\kyleg\\source\\repos\\ClientManagerApp\\ClientManagerApp.csproj",
+        "projectPath": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj",
         "packagesPath": "C:\\Users\\kyleg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kyleg\\source\\repos\\ClientManagerApp\\obj\\",
+        "outputPath": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

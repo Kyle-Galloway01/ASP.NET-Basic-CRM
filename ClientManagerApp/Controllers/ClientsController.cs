@@ -34,7 +34,7 @@ namespace ClientManagerApp.Controllers
 
         //PoST: Jokes/ShowSearchResults
         //Example of inserting a Search Query in the DB
-        //Not sure why search results are always returning as no results found...
+       
         public async Task<IActionResult> ShowSearchResults(String SearchPhrase)
         {
             return View("Index", await _context.Client.Where( j => j.Name.Contains(SearchPhrase)).ToListAsync());

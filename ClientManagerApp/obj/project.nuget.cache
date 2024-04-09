@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xKkuqhSIo4+37ivadORRHTyCz3r5vRgAypLOtWOgZgXprdhUJLc+wygOXNREHa4OlAY3HZFWv7oe2LRu4ZL23g==",
+  "dgSpecHash": "8W466FVYdGDBv/hp1MQZgGzxd/3Kn/OpcwP9rKznnAObp7zCJFmdXFEf90dWvPc78m3tgEh9HoHA+dbz7d+7ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kyleg\\source\\repos\\ClientManagerApp\\ClientManagerApp.csproj",
+  "projectFilePath": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kyleg\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kyleg\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
