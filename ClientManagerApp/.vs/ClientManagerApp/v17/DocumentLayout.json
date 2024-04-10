@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\",
+  "WorkspaceRootPath": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\views\\clients\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\views\\clients\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:views\\clients\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\kyleg\\cmsgit\\asp.net-basic-crm\\clientmanagerapp\\clientmanagerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|c:\\users\\cssam\\documents\\github\\asp.net-basic-crm\\clientmanagerapp\\clientmanagerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AF7BB8CC-3594-4716-A050-C22FFE481E42}|ClientManagerApp.csproj|solutionrelative:clientmanagerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -60,37 +60,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ShowSearchForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Clients\\ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Clients\\ShowSearchForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Clients\\ShowSearchForm.cshtml",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Clients\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Clients\\ShowSearchForm.cshtml",
               "RelativeToolTip": "Views\\Clients\\ShowSearchForm.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T23:39:58.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T23:39:58.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T23:31:48.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T23:31:48.194Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Controllers\\ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "Controllers\\ClientsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T23:22:25.445Z",
               "EditorCaption": ""
@@ -99,74 +97,69 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Models\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Models\\Client.cs",
               "RelativeDocumentMoniker": "Models\\Client.cs",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Models\\Client.cs",
               "RelativeToolTip": "Models\\Client.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:16:19.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T23:16:19.91Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Clients\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Clients\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Clients\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Clients\\Index.cshtml",
               "RelativeToolTip": "Views\\Clients\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T00:20:13.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T00:20:13.909Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-08T00:37:57.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T00:37:57.06Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:13:59.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T23:13:59.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T22:20:23.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T22:20:23.73Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -176,9 +169,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ClientManagerApp.csproj",
-              "DocumentMoniker": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj",
+              "DocumentMoniker": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj",
               "RelativeDocumentMoniker": "ClientManagerApp.csproj",
-              "ToolTip": "C:\\Users\\kyleg\\CMSGIT\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj",
+              "ToolTip": "C:\\Users\\csSam\\Documents\\GitHub\\ASP.NET-Basic-CRM\\ClientManagerApp\\ClientManagerApp.csproj",
               "RelativeToolTip": "ClientManagerApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
